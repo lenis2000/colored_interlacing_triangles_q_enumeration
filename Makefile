@@ -42,7 +42,7 @@ $(TARGET): $(SOURCE)
 	@echo "Done. Run with: ./$(TARGET) <max_n>"
 
 clean:
-	rm -f $(TARGET) canonical_n*.dat output_n*.txt
+	rm -f $(TARGET) *.dat
 
 test: $(TARGET)
 	./$(TARGET) 6
