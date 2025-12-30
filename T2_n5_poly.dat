@@ -1,0 +1,17 @@
+# T_2(5;q) polynomial data
+# Generated in 0s
+# Format: q_power coefficient
+# T_2(5) = 72960
+# T_2(5;q) = 2^4 * P_5(q)
+# P_5(q) coefficients below:
+0 1
+1 15
+2 132
+3 527
+4 1019
+5 1172
+6 1019
+7 527
+8 132
+9 15
+10 1

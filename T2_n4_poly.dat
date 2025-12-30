@@ -1,0 +1,13 @@
+# T_2(4;q) polynomial data
+# Generated in 0s
+# Format: q_power coefficient
+# T_2(4) = 1344
+# T_2(4;q) = 2^3 * P_4(q)
+# P_4(q) coefficients below:
+0 1
+1 10
+2 47
+3 52
+4 47
+5 10
+6 1
