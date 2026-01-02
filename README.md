@@ -1,6 +1,11 @@
 # q-Polynomial Enumeration for Colored Interlacing Triangles
 
 Compute the q-counting polynomial $T_2(n;q)$ for colored interlacing triangles of depth $N=2$.
+See also 
+[https://github.com/lenis2000/colored_interlacing_triangles_enumeration](https://github.com/lenis2000/colored_interlacing_triangles_enumeration) for plain enumeration, and 
+[https://github.com/lenis2000/colored_interlacing_triangles_q_sampling](https://github.com/lenis2000/colored_interlacing_triangles_q_sampling) for random sampling.
+
+arXiv paper: (TO BE INSTERTED)
 
 ## Programs
 
